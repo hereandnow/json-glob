@@ -1,0 +1,32 @@
+{
+  "name": "json-glob",
+  "version": "0.0.0",
+  "description": "My exquisite module",
+  "license": "MIT",
+  "repository": "hereandnow/json-glob",
+  "author": {
+    "name": "hereandnow",
+    "email": "hereandnow78@gmail.com",
+    "url": "bastianbehrens.de"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "glob": "^5.0.5",
+    "lodash": "^3.8.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
